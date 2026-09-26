@@ -11,6 +11,9 @@ class Solution {
             if(j==m) {
                 return i;
             }
+            if(i==n) {
+                return -1;
+            }
             i++;
         }
         return -1;
