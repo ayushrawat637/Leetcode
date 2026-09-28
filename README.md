@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushrawat637/Leetcode/tree/master/0001-two-sum) |
+| [0162-find-peak-element](https://github.com/ayushrawat637/Leetcode/tree/master/0162-find-peak-element) |
 | [0867-transpose-matrix](https://github.com/ayushrawat637/Leetcode/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ayushrawat637/Leetcode/tree/master/0175-combine-two-tables) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/ayushrawat637/Leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
